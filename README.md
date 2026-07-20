@@ -40,63 +40,63 @@ A web-based Hospital Management System developed using *PHP, **MySQL, **HTML, **
 # 📸 Project Screenshots
 
 ## 👤 Patient Registration
-![Patient Registration](https://github.com/karishma24-Itsme/Hospital-Management-System/bob/main/images/register.png)
+![Patient Registration](https://github.com/karishma24-Itsme/Hospital-Management-System/blob/main/images/register.png)
 
 New patients can create an account by entering their personal information.
 
 ---
 
 ## 🔐 Patient Login
-![Patient Login](https://github.com/karishma24-Itsme/Hospital-Management-System/bob/main/images/login.png)
+![Patient Login](https://github.com/karishma24-Itsme/Hospital-Management-System/blob/main/images/login.png)
 
 Registered patients can securely log in using their email and password.
 
 ---
 
 ## 👩‍💼 Admin Dashboard
-![Admin Dashboard](https://github.com/karishma24-Itsme/Hospital-Management-System/bob/main/images/admin.png)
+![Admin Dashboard](https://github.com/karishma24-Itsme/Hospital-Management-System/blob/main/images/admin.png)
 
 The admin can manage doctors, patients, appointments, prescriptions, and system records.
 
 ---
 
 ## 📅 Book Appointment
-![Book Appointment](https://github.com/karishma24-Itsme/Hospital-Management-System/bob/main/images/appoint.png)
+![Book Appointment](https://github.com/karishma24-Itsme/Hospital-Management-System/blob/main/images/appoint.png)
 
 Patients can select a doctor, choose a date and time, and book appointments online.
 
 ---
 
 ## 👨‍⚕️ Doctor Dashboard
-![Doctor Dashboard](https://github.com/karishma24-Itsme/Hospital-Management-System/bob/main/images/docdash.png)
+![Doctor Dashboard](https://github.com/karishma24-Itsme/Hospital-Management-System/blob/main/images/docdash.png)
 
 Doctors can view appointments, manage patient details, and prescribe medicines.
 
 ---
 
 ## 💊 Prescription List
-![Prescription List](https://github.com/karishma24-Itsme/Hospital-Management-System/bob/main/images/docprecip.png)
+![Prescription List](https://github.com/karishma24-Itsme/Hospital-Management-System/blob/main/images/docprecip.png)
 
 Doctors can view all prescriptions created for patients.
 
 ---
 
 ## 📄 Medical Invoice
-![Medical Invoice](https://github.com/karishma24-Itsme/Hospital-Management-System/bob/main/images/billpay.png)
+![Medical Invoice](https://github.com/karishma24-Itsme/Hospital-Management-System/blob/main/images/billpay.png)
 
 The system automatically generates a PDF invoice for appointments and consultations.
 
 ---
 
 ## 📜 Patient Prescription
-![Patient Prescription](https://github.com/karishma24-Itsme/Hospital-Management-System/bob/main/images/patient2.png)
+![Patient Prescription](https://github.com/karishma24-Itsme/Hospital-Management-System/blob/main/images/patient2.png)
 
 Patients can view their prescriptions and pay bills online.
 
 ---
 
 ## 📩 Contact Page
-![Contact Page](https://github.com/karishma24-Itsme/Hospital-Management-System/bob/main/images/contact1.png)
+![Contact Page](https://github.com/karishma24-Itsme/Hospital-Management-System/blob/main/images/contact1.png)
 
 Users can contact the hospital through the contact form.
 
@@ -119,7 +119,7 @@ myhms
 http://localhost/myhms1/index.php
 
 ## Database
-![Database Page](https://github.com/karishma24-Itsme/Hospital-Management-System/bob/main/images/database.png)
+![Database Page](https://github.com/karishma24-Itsme/Hospital-Management-System/blob/main/images/database.png)
 
 
 
