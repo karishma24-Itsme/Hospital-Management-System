@@ -1,12 +1,8 @@
 <?php
 session_start();
-$con = mysqli_connect("localhost","root","","myhms","3306");
 
-if(!$con){
-    die("Connection failed: " . mysqli_connect_error());
-}
-
-if(!isset($_SESSION['pid'])){
+if(!isset($_SESSION['pid']))
+{
     header("Location: register_new.php");
     exit();
 }
